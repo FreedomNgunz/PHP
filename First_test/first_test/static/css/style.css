@@ -1,0 +1,67 @@
+#content {
+    width: 900px;
+    margin: auto;
+}
+
+h1, ul {
+    text-align: center;
+}
+
+li {
+	display: inline-block;
+	margin: 10px;
+}
+
+label, input, select {
+	display: inline-block;
+	vertical-align: top;
+	height: 25px;
+	margin-bottom: 2px;
+	margin-top: 2px;
+}
+
+input[type="submit"] {
+	width: 100px;
+}
+
+input,select {
+	width: 300px;
+}
+
+#form {
+	width: 300px;
+	margin: auto;
+}
+
+textarea {
+	max-width: 600px;
+	min-width: 600px;
+	max-height: 200px;
+	min-height: 200px;
+}
+
+.idee {
+	background: #A1D721;
+	padding: 10px;
+	border-radius: 6px;
+	color: white;
+}
+
+strong {
+	color: rgb(245, 60, 205);
+}
+
+.dp {
+	color: #999;
+	font-size: 0.8em;
+}
+footer {
+	text-align: center;
+	background: #A1D721;
+	color: white;
+	padding: 20px;
+	margin-top: 100px;
+}	
+body{
+	background-image: url(../php5.jpg);
+} 
